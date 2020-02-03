@@ -1,167 +1,151 @@
-# Aplicación financiera
+# Banqui Proyecto de Rediseño
+![image]()
+## Índice
+* [1. Descripciom del problema](#1-introducción)
+* [2. Objetivos del proyecto](#2-objetivos-del-proyecto)
+* [3. Implementación](#3-implementación)
+* [4. Proceso UX](#4-Proceso-UX)
+  * [4.1 Descubrimiento e Investigación](###4.1-Descubrimiento-y-Planificación)
+    * [4.1.1 Entrevista con el Cliente](####Entrevista-con-el-Cliente)
+    * [4.1.2 Entrevistas con usuarios](####Entrevista-con-usuarios)
+    * [4.1.3 Benchmark](####Bechmarck)
+  * [4.2 Síntesis y Definición](###4.2-Síntesis-y-Definición)
+    * [4.2.1 Affinity Map](####Affinity-map)
+    * [4.2.2 User Persona](####User-Persona)
+    * [4.2.3 Customer Journey Map](####Customer-Journey-map)
+    * [4.2.4 Definición del Producto](####Definicion-del-producto)
+  * [4.3 Ideación, Prototipado y user testing](###4.3-Ideación,-prototipado-y-user-testing)
+    * [4.3.1 Prototipo de baja fidelidad](####Prototipado-de-baja-fidelidad)
+    * [4.3.2 Prototipo de alta fidelidad](####Prototipado-de-alta-fidelidad)
+    * [4.3.3 User testing](####User-testing)
+* [5. Enlaces](#5-enlaces)
+  
+***
+## 1. Introducción
+Banqui, es una propuesta de una aplicación de banca móvil digital, que cuenta con el respaldo del Banco Pichincha, tienen un primer prototipo el cual desean mejorarlo.
 
-## Preámbulo
+## 2. Objetivos del Proyecto
+- Analizar la data que nos fue brindada
+- Testear el prototipo inicial e identificar el problema
+- Proponer un diseño con las mejoras de acuerdo a la investigación
 
-El banco más importante del país, siguiendo las tendencias de otros países, está
-planeando lanzar un banco 100% digital bajo otro nombre: "Banqui". Su principal
-objetivo es tener un banco que sea más cercano a las necesidades del público más
-joven del país. Para ello han venido piloteando un app con un número pequeño de
-usuarios. Los resultados de este piloto son mixtos, hay algunas cosas que han
-sido bien recibidas por los usuarios, y hay otras que se tienen que mejorar aún.
 
-Para poder ayudarlos a entender mejor las necesidades de sus clientes y crear
-el mejor banco digital del país han decidido contratar a una consultora de UX,
-donde le han asignado este proyecto a ti y otra compañera de Laboratoria.
+## 3. Implementación
+Para realizar este proyecto hemos seleccionado las siguientes actividades:
+![image]()
 
-## Introducción
 
-### Contexto
+## 4. Proceso UX
 
-Durante la primera semana de entendimiento de los requerimientos, el Product
-Manager les comparte las hipótesis y preguntas que tienen dentro del equipo:
+### 4.1) Descubrimiento y Planificación
+#### Entrevista con el Cliente
+![image]()
 
-> Los usuarios que anteriormente han sido clientes de algún banco, nos comparan
-  con las aplicaciones de esos bancos, parece que hay cosas que extrañan.
 
-> La aplicación que estamos probando es para iOS, sin embargo, para hacer un
-  lanzamiento nacional necesitamos crear un app para Android.
 
-> Nos falta acercarnos un poco más a los usuarios jóvenes, 100% digitales, los
-  que usan Netflix, Uber, Spotify, Instagram, entre otros.
+![image]()
 
-### Recursos
 
-En esta carpeta de [Google Drive](https://drive.google.com/drive/folders/1etdcDyoN7C038ti_i4RhavK2DWEAc1yH?usp=sharing) y en los siguientes
-links, encontrarán:
 
-- Los user personas
-- El user flow del MVP
-- El [diseño del app en Figma](https://www.figma.com/file/im1tb4vPyt9bMVlhzqlHIR/S02E01-App-Financiera?node-id=0%3A1)
-  , con una guía de componentes y el [Prototipo navegable](https://marvelapp.com/1hj56576/screen/60926857).
-- Analytics de los primeros 6 meses del MVP
-- Data de uso del MVP de los primeros 6 meses
+#### Entrevista con usuarios
+Se realizó un testeo con mapa de calor (maze) con 17 usuarios y 5 entrevistas.
+ 
+![image]()
 
-## Objetivos de aprendizaje
 
-El objetivo principal de este proyecto es que te enfrentes al reto de rediseñar
-un producto ya existente. Es muy probable que termines trabajando en productos
-existentes y que para tener un buen entendimiento del problema, debas analizar
-data de ese producto y complementar esta data con investigación de campo. Para
-luego definir una estrategia de producto de acuerdo a los objetivos del negocio,
-pero sin dejar de lado los objetivos y necesidades de los usuarios. Puedes leer
-sobre el trabajo de un UX Designer en rediseño este [blogpost](https://blog.continuum.cl/preguntas-para-dejar-de-ser-ux-designer-y-empezar-a-ser-un-ux-redesigner-143e5467ec8d).
+#### Bechmarck
+Los criterios utilizados para la selección de referentes fueron los siguientes:
 
-En este proyecto pondrás en práctica habilidades de: análisis de datos,
-investigación de campo, pensamiento crítico, cuestionamiento, síntesis, diseño
-de componentes de la interfaz y user testing.
+##### Organización de la  información
+Ingreso a la app:
+![image]()
 
-## Consideraciones generales
+Ahorros:
+![image]()
 
-Como ya habrás notado, gran parte del trabajo de UX tiene relación con el
-desempeño de tus habilidades blandas. Estas habilidades nos acompañan a lo largo
-de cualquier proyecto y su desarrollo es clave para el éxito. Estas habilidades
-no sólo son utilizadas a la hora de entender al usuario, sino a lo largo de toda
-la ejecución, es decir desde cómo planificamos hasta nuestra presentación al
-cliente.
+Apertura de cuenta:
+![image]()
+![image]()
 
-Anteriormente, nos habíamos concentrado en el desarrollo de tu curiosidad y
-empatía, practicado cómo relacionarte con el cliente y el usuario. Siempre debes
-pensar quiénes son y qué necesitan, y no enfocarte en lo que tú consideras que
-podría ser la solución correcta. Se trata de entender que nosotros no somos el
-usuario, y debemos hacer el ejercicio empático de comprenderlo a él y a nuestro
-cliente.
+Tarjeta de crédito:
+![image]()
+![image]()
 
-Este proyecto, a diferencia de otros, no debes partir desde cero generando un
-prototipo, sino investigar lo que el banco ya ha construido y en base a eso
-hacer una propuesta. Para esto, te aconsejamos comenzar por investigar
-la información que tienes; entender qué datos ya manejas y qué elementos
-necesitas averiguar para completar tu proyecto. De esta manera, tu planificación
-es muy relevante para comprender la problemática.
+Pago con QR:
+![image]()
+![image]()
 
-Al planificar podrás comprender de qué manera estructurar tu proyecto y qué
-elementos debes investigar. Además, te permitirá trabajar de mejor manera con tu
-compañera, te aconsejamos que consideres tiempo para poder iterar sobre las
-posibilidades de mejora y también para preparar la presentación.
+CONCLUSIONES
 
-La calidad del proyecto depende totalmente de tu proactividad y autoaprendizaje,
-si no conoces plataformas financieras parte por investigar sobre ellas. No
-esperes que los contenidos lleguen a ti, más bien busca todo lo que necesites
-para poder encontrar la mejor solución.
 
-Parte importante de tu trabajo como UX designer es tomar decisiones.
-Efectivamente existen múltiples herramientas que puedes utilizar, debes
-comprender para qué y con qué finalidad escoges usar cada una de ellas. Siempre
-piensa que debes justificar todo gasto con tu consultora y el cliente, cada
-decisión que tomes en el proyecto debe ser fundamentada, no sigas pasos
-mecánicos por seguirlos, cuestiónate constantemente.
+### 4.2) Síntesis y Definición
+#### Affinity map
+![image]()
 
-Por último, considera que la calidad de tu presentación es tan importante como
-el proceso completo. Un proyecto que no se aprecia al ser presentado no es un
-buen proyecto. Si vas a utilizar una slides frente a un cliente, se prolija en
-el diseño de ellos y en la información que entregas, también busca la mejor
-manera de mostrar tu demo y por sobre todo prueba antes de presentar frente al
-cliente.
+##### CONCLUSIONES
+-
 
-## Entrega
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
+#### User Persona
+![image]()
 
-README.md  detallando:
+#### Customer Journey map
+![image]()
 
-* Objetivos iniciales del proyecto
-* Problemas encontrados tanto a nivel de negocio como a nivel de usuario
-* Recomendaciones de próximos pasos para el banco con respecto al app
-* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,
-  estos deberán ser diseñados y entregados en un prototipo de alta definición.
+#### Definicion del producto
 
-Un video en Loom de máximo 5 minutos explicando tu documento.
-* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución propuesta.
+##### PROBLEM STATEMENTS
+- 
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso.
 
-### Hacker edition
+##### HMW
+- 
 
-Para el hacker edition puedes elegir una o varias de estas opciones:
 
-- Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus
-  aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante 
-  el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te 
-  fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión
-  en un documento adicional (en el formato que prefieras).
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0. 
-- Escribe un post en Medium contando tu proceso de investigación.
+##### WHAT IF?
+- 
+-
 
-## Otras consideraciones
+##### FEATURE LIST
+- 
+- 
 
-### 1) Planeamiento y presupuesto
+![image]()
 
-En el reto con emprendimientos te entregamos una lista de tareas que podías
-realizar y le asignamos un valor en puntos a cada tarea. Además, te dimos un
-presupuesto de 300 puntos para que los utilices en esas tareas. Para este reto,
-la lista de tareas, el valor en puntos de cada tarea y el presupuesto total
-de las actividades a realizar lo crearás tú y lo tendrás que sustentar con tu
-coach. Adicinalmente, deberás sustentar con tu coach qué entregables harás
-llegar al banco al final de tu investigación y por qué. El coach te aprobará
-estos entregables o te dará feedback para mejorarlos.
+### 4.3) Ideación, prototipado y user testing
+Para la ideación utilizamos la herramienta Crazy8:
 
-Cuando hagas tu presupuesto y pienses en los entregables recuerda que el tiempo
-de desarrollo de este proyecto es de dos semanas. También, recuerda qué partes
-te tomaron más tiempo en el desarrollo del proyecto 1 y los aprendizajes que
-tuviste al desarrollar el proyecto 1.
+![image]()
+![image]()
+![image]()
+![image]()
 
-### 2) Prototipo de alta fidelidad
+#### Prototipado de baja fidelidad
+![image]()
+Testeo de prototipo de baja fidelidad:
+![image]()
 
-Existen varias herramientas que puedes utilizar para crear diseñar el producto,
-en este caso el diseño viene en Figma y el prototipo en Marvel, así que puedes
-seguir usando esas herramientas. Sin embargo, eres libre de utilizar otras
-como Adobe XD e Invision. Para el prototipo intenta utilizar Marvel o Invision,
-ya que para el testing tendrás que usar una herramienta llamada
-[Maze](https://maze.design/) que funciona mejor con estas.
 
-Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
-como: contraste, alineación, jerarquía, entre otros.
+RESULTADOS:
+* 
+*
+
+#### Prototipado de alta fidelidad
+Este fue nuestro prototipado en figma inicial
+![image]()
+
+Este es nuestro figma con las mejoras despues del feedback
+![image]()
+
+#### User testing
+Los usuarios nos indicaron las siguientes mejoras:
+
+- Que la idea del balance es buena pero se puede mejorar.
+
+
+## 5. Enlaces
+* [Carpeta de Drive compartido]()
+* [Prototipado en figma con mejoras]()
+* [Prototipado en marvel con mejoras]()
+* [Video resumen en loom]()
+
