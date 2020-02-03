@@ -1,5 +1,5 @@
 # Banqui Proyecto de Rediseño
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/logo%20banqui.jpg)
 ## Índice
 * [1. Descripciom del problema](#1-introducción)
 * [2. Objetivos del proyecto](#2-objetivos-del-proyecto)
@@ -32,7 +32,7 @@ Banqui, es una propuesta de una aplicación de banca móvil digital, que cuenta 
 
 ## 3. Implementación
 Para realizar este proyecto hemos seleccionado las siguientes actividades:
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/consideraciones%20tecnicas.png)
 
 
 ## 4. Proceso UX
@@ -83,11 +83,11 @@ CONCLUSIONES
 ![image]()
 
 ##### CONCLUSIONES
--
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/conclusiones%20del%20afinity%20map.jpg)
 
 
 #### User Persona
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/user%20persona.jpg)
 
 #### Customer Journey map
 ![image]()
@@ -95,22 +95,20 @@ CONCLUSIONES
 #### Definicion del producto
 
 ##### PROBLEM STATEMENTS
-- 
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/PROBLEM%20STATEMENTS.jpg)
 
 
 ##### HMW
-- 
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/HMW.jpg)
 
 
 ##### WHAT IF?
-- 
--
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/WHAT%20IF.jpg)
 
 ##### FEATURE LIST
-- 
-- 
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/FEATURE%20LIST.jpg)
 
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/MVP.jpg)
 
 ### 4.3) Ideación, prototipado y user testing
 Para la ideación utilizamos la herramienta Crazy8:
@@ -131,10 +129,8 @@ RESULTADOS:
 *
 
 #### Prototipado de alta fidelidad
-Este fue nuestro prototipado en figma inicial
-![image]()
 
-Este es nuestro figma con las mejoras despues del feedback
+Este es nuestra propuesta en figma con las mejoras despues del feedback
 ![image]()
 
 #### User testing
@@ -144,8 +140,8 @@ Los usuarios nos indicaron las siguientes mejoras:
 
 
 ## 5. Enlaces
-* [Carpeta de Drive compartido]()
-* [Prototipado en figma con mejoras]()
-* [Prototipado en marvel con mejoras]()
+* [Carpeta de Drive compartido](https://drive.google.com/drive/folders/1IMn8oNwX12JsH-ibtmlFWmbQ2mOV25nB)
+* [Prototipado en figma con mejoras](https://www.figma.com/file/muWpukMWzmpbNDAfuDWcv8/S02E01-App-Financiera-(Copy)?node-id=824%3A10954)
+* [Prototipado en marvel con mejoras](https://marvelapp.com/project/4684749)
 * [Video resumen en loom]()
 
