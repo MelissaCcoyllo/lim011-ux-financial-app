@@ -1,7 +1,7 @@
 # Banqui Proyecto de Rediseño
 ![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/logo%20banqui.jpg)
 ## Índice
-* [1. Descripciom del problema](#1-introducción)
+* [1. Descripción del problema](#1-introducción)
 * [2. Objetivos del proyecto](#2-objetivos-del-proyecto)
 * [3. Implementación](#3-implementación)
 * [4. Proceso UX](#4-Proceso-UX)
