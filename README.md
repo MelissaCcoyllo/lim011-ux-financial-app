@@ -44,7 +44,6 @@ Para realizar este proyecto hemos seleccionado las siguientes actividades:
 #### Entrevista con usuarios
 Se realizó un testeo con mapa de calor (maze) con 17 usuarios y 5 entrevistas.
 
-CONCLUSIONES:
 ![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/entrevistaUsuarios1.png)
 ![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/entrevistaUsuarios2.png)
 ![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/entrevistaUsuarios3.png)
@@ -56,19 +55,24 @@ Los criterios utilizados para la selección de referentes fueron los siguientes:
 
 ##### Organización de la  información
 Ingreso a la app:
+
 ![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/ingreso%20a%20la%20app.png)
 
 Ahorros:
+
 ![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/ahorros.png)
 
 Apertura de cuenta:
+
 ![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/apertura%20de%20cuenta1.png)
 ![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/apertura%20de%20cuenta.png)
 
 Tarjeta de crédito:
+
 ![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/tarjeta%20de%20credito.png)
 
 Pago con QR:
+
 ![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/pago%20con%20QR.png)
 
 CONCLUSIONES
