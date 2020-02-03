@@ -39,7 +39,7 @@ Para realizar este proyecto hemos seleccionado las siguientes actividades:
 
 ### 4.1) Descubrimiento y Planificación
 #### Entrevista con el Cliente
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/objetivos%20del%20cliente.png)
 
 #### Entrevista con usuarios
 Se realizó un testeo con mapa de calor (maze) con 17 usuarios y 5 entrevistas.
@@ -112,13 +112,16 @@ Para la ideación utilizamos la herramienta Crazy8:
 
 #### Prototipado de baja fidelidad
 ![image]()
-Testeo de prototipo de baja fidelidad:
-![image]()
 
 #### Prototipado de alta fidelidad
 
-Este es nuestra propuesta en figma con las mejoras despues del feedback
-![image]()
+Estos son los cambios principales que se realizaron en el prototipo en figma:
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/cambio1.png)
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/cambio2.png)
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/cambio3.png)
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/cambio4.png)
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/cambio5.png)
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/cambio6.png)
 
 #### User testing
 Los usuarios nos indicaron las siguientes mejoras:
