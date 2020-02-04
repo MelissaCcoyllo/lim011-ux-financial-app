@@ -111,10 +111,8 @@ CONCLUSIONES
 ### 4.3) Ideación, prototipado y user testing
 Para la ideación utilizamos la herramienta Crazy8:
 
-![image]()
-![image]()
-
-#### Prototipado de baja fidelidad
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/84410284_1127757160910205_8786904472254152704_n.jpg)
+![image](https://github.com/MelissaCcoyllo/lim011-ux-financial-app/blob/master/Imagenes/83954652_2483156955259188_3091972180733329408_n.jpg)
 ![image]()
 
 #### Prototipado de alta fidelidad
